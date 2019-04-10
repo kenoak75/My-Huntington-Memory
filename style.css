@@ -1,0 +1,48 @@
+body {
+  margin: 2em;
+  line-height: 1.7;  
+  font-family: 'Merriweather', serif;
+}
+
+#logo {
+  max-width: 950px;
+  margin-bottom: 20px;
+}
+
+#memory1 {
+  float: left;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0 2% 2% 0;
+  padding: 0.5em 0.5em 0.5em 0;
+  max-width: 384px;
+}
+  
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+h6 {
+  color: #737373;
+  font-weight: bold;
+}
+
+
+.col-sm-6 {
+  margin: 0 auto;
+  float: none;
+}
+
+#bottom {
+  margin-top: 1em;
+}
+
+.whee {
+  background-color: black;
+  opacity: 0.6;
+}
